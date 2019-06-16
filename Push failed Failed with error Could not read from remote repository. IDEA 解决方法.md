@@ -1,6 +1,6 @@
 #  Idea使用git上传代码到github 问题
 
-# Qustion1：
+## Qustion1：
 
 ### Push failed: Failed with error: Could not read from remote repository.
 
